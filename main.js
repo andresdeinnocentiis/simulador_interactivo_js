@@ -1,4 +1,8 @@
+/*
+ENTREGA 03: SIMULADOR INTERACTIVO
 
+    by Andres De Innocentiis
+*/
 
 const SALIR = 0;
 let exit = false
